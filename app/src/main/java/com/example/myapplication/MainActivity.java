@@ -7,7 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
+
             String name = "salah";
+            int wall =255;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
